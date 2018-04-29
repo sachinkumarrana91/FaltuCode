@@ -6,7 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class ListFilesUtilWithoutRecursion {
+public class ListFilesUtil {
 
 	public String directoryName = "C://Users//Downloads//Demo_XML";
 
